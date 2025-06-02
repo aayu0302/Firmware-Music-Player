@@ -52,7 +52,10 @@ Variuous external modules are used besides the mysql-connector module<br><br>
 | **threading**   	| Threading module is required to run a separate thread waiting for the user to play/pause the song                                                                                         	|
 | **getch**       	| Used to read a single character from stdin without printing it to the user. Is imported from msvcrt (access to microsoft visual c/c++ runtime library) if the operating system is windows 	|
 <br>
+## 🔗 Acknowledgements
 
-for more info refer to<br>
-https://shorturl.at/iEGS8<br>
-https://drive.google.com/file/d/1mHB5w00IrYe6rMObH4iJEK7TcHi0hs\_s/view<br>
+This project was developed collaboratively with [@samnt04](https://github.com/samnt04) as part of a group learning exercise. Some code structure and database schema are shared.
+
+For more information and original references:
+- [Short link](https://shorturl.at/iEGS8)
+- [Google Drive explanation video](https://drive.google.com/file/d/1mHB5w0TrYe6rM0bH4iJEX7TCHi0hs_s/view)
