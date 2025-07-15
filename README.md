@@ -1,6 +1,6 @@
 ## 🔗 Acknowledgements
 
-This project was developed collaboratively with [@samnt04](https://github.com/samnt04) as part of a group learning exercise. Some code structure and database schema are shared.
+This project was developed collaboratively with [@samnt04](https://github.com/samnt04) as part of a group project. Some code structure and database schema are shared.
 
 # MusicPlayer
 
